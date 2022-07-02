@@ -8,7 +8,7 @@ import java.awt.event.MouseEvent;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 
-public class main_game extends JPanel {
+public class main_game extends JFrame {
 	
 	//dimension of the grid
 	private int size;
